@@ -1,6 +1,6 @@
 # Bienvenue chez Digibleo 🚀
 
-![Logo de Digibleo](https://digibleo.com/wp-content/uploads/2021/08/digibleo-logo-mini-w.png)
+![Logo de Digibleo]([https://digibleo.com/wp-content/uploads/2023/11/digibleo-logo-classic.png]
 
 ## À propos de nous 🌟
 
@@ -44,7 +44,7 @@ Pour plus de détails, consultez notre [guide de contribution](lien_vers_le_guid
 ## Rejoignez Notre Communauté 🌍
 
 Participez aux discussions, posez des questions et collaborez avec nous :
-- ([𝕏](https://twitter.com/digibleofr)) 
+- ([Lien vers 𝕏](https://twitter.com/digibleofr)) 
 
 ## Contact 📬
 
