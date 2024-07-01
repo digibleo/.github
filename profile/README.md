@@ -1,6 +1,6 @@
 # Bienvenue chez Digibleo 🚀
 
-![Logo de Digibleo]([https://digibleo.com/wp-content/uploads/2023/11/digibleo-logo-classic.png]
+![Logo de Digibleo](https://digibleo.com/wp-content/uploads/2023/11/digibleo-logo-classic.png)
 
 ## À propos de nous 🌟
 
